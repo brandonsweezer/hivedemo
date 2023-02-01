@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Setup
 
+Ensure you have nodejs, npm (or yarn), and nvm installed. I developed this demo in node version 14, so please use that version when running the app.
+
+### `nvm install 14`
+### `nvm use 14`
+
 First git clone this repository into a directory of your choice.
 
 In the project directory, you can run:
